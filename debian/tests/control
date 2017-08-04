@@ -1,5 +1,5 @@
 Tests: check_daemons.py
-Depends: pcp
+Depends: pcp, python, python-unittest
 
 Tests: check_cli_tools.py
-Depends: pcp
+Depends: pcp, python, python-unittest
